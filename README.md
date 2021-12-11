@@ -12,4 +12,4 @@ Aplicação pessoal para estudo do ReactJs + Typescript utilizando a configuraç
 ### Projeto desenvolvido
 
 
-<!-- <img src="public/projeto.png" alt="Projeto desenvolvido"/> -->
+<img src="public/dtmoney.png" alt="Projeto desenvolvido"/>
