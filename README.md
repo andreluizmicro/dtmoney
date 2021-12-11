@@ -5,11 +5,11 @@ Aplicação pessoal para estudo do ReactJs + Typescript utilizando a configuraç
 ### Este projeto contem as seguintes dependências
 
 - Typescript
-- tyled-components
+- styled-components
 - MirageJs
 - Axios
 
-### Projeto desenvolvido
+### Template do projeto
 
 
 <img src="public/dtmoney.png" alt="Projeto desenvolvido"/>
