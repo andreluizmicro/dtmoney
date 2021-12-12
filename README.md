@@ -11,5 +11,8 @@ Aplicação pessoal para estudo do ReactJs + Typescript utilizando a configuraç
 
 ### Template do projeto
 
-
 <img src="public/dtmoney.png" alt="Projeto desenvolvido"/>
+
+### Modal de cadastro de transação
+
+<img src="public/new-transaction.png" alt="Modal de cadastro de uma nova transação">
